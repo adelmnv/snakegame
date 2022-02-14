@@ -196,6 +196,7 @@ void move(int dx, int dy)
 
 void update()
 {
+	std::cout << "hello everyone" << std::endl;
 	move(change_x, change_y);
 }
 
